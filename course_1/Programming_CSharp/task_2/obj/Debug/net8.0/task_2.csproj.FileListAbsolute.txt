@@ -1,0 +1,14 @@
+C:\Users\tlitv\source\repos\task_2\bin\Debug\net8.0\task_2.exe
+C:\Users\tlitv\source\repos\task_2\bin\Debug\net8.0\task_2.deps.json
+C:\Users\tlitv\source\repos\task_2\bin\Debug\net8.0\task_2.runtimeconfig.json
+C:\Users\tlitv\source\repos\task_2\bin\Debug\net8.0\task_2.dll
+C:\Users\tlitv\source\repos\task_2\bin\Debug\net8.0\task_2.pdb
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\task_2.AssemblyInfoInputs.cache
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\task_2.AssemblyInfo.cs
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\task_2.dll
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\refint\task_2.dll
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\task_2.pdb
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\task_2.genruntimeconfig.cache
+C:\Users\tlitv\source\repos\task_2\obj\Debug\net8.0\ref\task_2.dll

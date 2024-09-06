@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "44UEMye41C8bDVgp1bhRasxLc4nHLcTwBPNXI3aBYTpi6sZOsOlm5uTi3kpmt9CtXC2/+ZOCSuk/PFqvcTBndw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tlitv\\source\\C# Labs\\_353504_Litvinava\\_353504_Litvinava.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tlitv\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\tlitv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tlitv\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\tlitv\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\tlitv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

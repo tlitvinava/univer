@@ -1,0 +1,14 @@
+C:\Users\tlitv\source\repos\Task_4_1\bin\Debug\net8.0\Task_4_1.exe
+C:\Users\tlitv\source\repos\Task_4_1\bin\Debug\net8.0\Task_4_1.deps.json
+C:\Users\tlitv\source\repos\Task_4_1\bin\Debug\net8.0\Task_4_1.runtimeconfig.json
+C:\Users\tlitv\source\repos\Task_4_1\bin\Debug\net8.0\Task_4_1.dll
+C:\Users\tlitv\source\repos\Task_4_1\bin\Debug\net8.0\Task_4_1.pdb
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\Task_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\Task_4_1.AssemblyInfoInputs.cache
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\Task_4_1.AssemblyInfo.cs
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\Task_4_1.csproj.CoreCompileInputs.cache
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\Task_4_1.dll
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\refint\Task_4_1.dll
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\Task_4_1.pdb
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\Task_4_1.genruntimeconfig.cache
+C:\Users\tlitv\source\repos\Task_4_1\obj\Debug\net8.0\ref\Task_4_1.dll
