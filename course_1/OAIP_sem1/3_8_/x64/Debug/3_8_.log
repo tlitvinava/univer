@@ -1,0 +1,5 @@
+﻿  3_8_.cpp
+C:\Users\tlitv\source\repos\3_8_\3_8_.cpp(46,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tlitv\source\repos\3_8_\3_8_.cpp(48,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tlitv\source\repos\3_8_\3_8_.cpp(53,48): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  3_8_.vcxproj -> C:\Users\tlitv\source\repos\Лаба_8\x64\Debug\3_8_.exe

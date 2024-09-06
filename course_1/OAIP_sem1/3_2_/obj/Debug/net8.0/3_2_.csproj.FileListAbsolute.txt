@@ -1,0 +1,14 @@
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\3_2_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\3_2_.AssemblyInfoInputs.cache
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\3_2_.AssemblyInfo.cs
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\3_2_.csproj.CoreCompileInputs.cache
+C:\Users\tlitv\source\repos\3_2_\bin\Debug\net8.0\3_2_.exe
+C:\Users\tlitv\source\repos\3_2_\bin\Debug\net8.0\3_2_.deps.json
+C:\Users\tlitv\source\repos\3_2_\bin\Debug\net8.0\3_2_.runtimeconfig.json
+C:\Users\tlitv\source\repos\3_2_\bin\Debug\net8.0\3_2_.dll
+C:\Users\tlitv\source\repos\3_2_\bin\Debug\net8.0\3_2_.pdb
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\3_2_.dll
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\refint\3_2_.dll
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\3_2_.pdb
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\3_2_.genruntimeconfig.cache
+C:\Users\tlitv\source\repos\3_2_\obj\Debug\net8.0\ref\3_2_.dll

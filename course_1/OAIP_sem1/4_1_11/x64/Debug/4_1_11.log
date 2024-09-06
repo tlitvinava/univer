@@ -1,0 +1,6 @@
+﻿  4_1_11.cpp
+C:\Users\tlitv\source\repos\4_1_11\4_1_11.cpp(14,28): error C2371: number: переопределение; различные базовые типы
+C:\Users\tlitv\source\repos\4_1_11\4_1_11.cpp(10,17): message : см. объявление "number"
+C:\Users\tlitv\source\repos\4_1_11\4_1_11.cpp(15,28): error C2371: square: переопределение; различные базовые типы
+C:\Users\tlitv\source\repos\4_1_11\4_1_11.cpp(11,17): message : см. объявление "square"
+C:\Users\tlitv\source\repos\4_1_11\4_1_11.cpp(16,15): error C2088: <<: недопустимо для class

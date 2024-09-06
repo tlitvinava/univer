@@ -1,0 +1,4 @@
+﻿  2_5.cpp
+C:\Users\tlitv\source\repos\2_5\2_5.cpp(51,35): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\tlitv\source\repos\2_5\2_5.cpp(61,27): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  2_5.vcxproj -> C:\Users\tlitv\source\repos\Лаба 5\x64\Debug\2_5.exe

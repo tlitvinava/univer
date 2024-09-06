@@ -1,0 +1,4 @@
+﻿  3_11.cpp
+C:\Users\tlitv\source\repos\3_11\3_11.cpp(23,20): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\tlitv\source\repos\3_11\3_11.cpp(27,20): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  3_11.vcxproj -> C:\Users\tlitv\source\repos\test\x64\Debug\3_11.exe
